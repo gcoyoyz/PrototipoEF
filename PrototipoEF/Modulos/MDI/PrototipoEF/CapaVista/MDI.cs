@@ -33,10 +33,10 @@ namespace CapaVista
 
         private void aplicacionesToolStripMenuItem_Click(object sender, EventArgs e)
         {
-            frmPuesto form3 = new frmPuesto();
-            form3.MdiParent = this.MdiParent;
-            form3.Show();
-            form3.funActualizarUsuario(txtUsuario.Text);
+            //frmPuesto form3 = new frmPuesto();
+            //form3.MdiParent = this.MdiParent;
+            //form3.Show();
+            //form3.funActualizarUsuario(txtUsuario.Text);
         }
 
         private void tsmEmpleados_Click(object sender, EventArgs e)
@@ -77,10 +77,10 @@ namespace CapaVista
 
         private void perfilesToolStripMenuItem1_Click(object sender, EventArgs e)
         {
-            frmPrestacionesLaborales form3 = new frmPrestacionesLaborales();
-            form3.MdiParent = this.MdiParent;
-            form3.Show();
-            form3.funActualizarUsuario(txtUsuario.Text);
+            //frmPrestacionesLaborales form3 = new frmPrestacionesLaborales();
+            //form3.MdiParent = this.MdiParent;
+            //form3.Show();
+            //form3.funActualizarUsuario(txtUsuario.Text);
         }
 
         private void desarrolloDeCarreraToolStripMenuItem_Click(object sender, EventArgs e)
@@ -107,23 +107,23 @@ namespace CapaVista
 
         private void btnGenerarNóminas_Click(object sender, EventArgs e)
         {
-            frmNomina form3 = new frmNomina();
-            form3.MdiParent = this.MdiParent;
-            form3.Show();
+            //frmNomina form3 = new frmNomina();
+            //form3.MdiParent = this.MdiParent;
+           // form3.Show();
         }
 
         private void btnCierreDeNominas_Click(object sender, EventArgs e)
         {
-            frmVerNominas form3 = new frmVerNominas();
-            form3.MdiParent = this.MdiParent;
-            form3.Show();
+           // frmVerNominas form3 = new frmVerNominas();
+            //form3.MdiParent = this.MdiParent;
+            //form3.Show();
         }
 
         private void btnVerCierresDeNomina_Click(object sender, EventArgs e)
         {
-            frmVerCierresDeNomina form3 = new frmVerCierresDeNomina();
-            form3.MdiParent = this.MdiParent;
-            form3.Show();
+            //frmVerCierresDeNomina form3 = new frmVerCierresDeNomina();
+            //form3.MdiParent = this.MdiParent;
+            //form3.Show();
         }
 
         private void salirToolStripMenuItem_Click(object sender, EventArgs e)

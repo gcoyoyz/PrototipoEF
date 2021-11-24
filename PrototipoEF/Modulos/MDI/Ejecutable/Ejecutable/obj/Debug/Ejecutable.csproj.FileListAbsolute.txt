@@ -1,11 +1,9 @@
 C:\Users\alecz\Desktop\PrototipoEF\PrototipoEF\Modulos\MDI\Ejecutable\Ejecutable\bin\Debug\Ejecutable.exe.config
 C:\Users\alecz\Desktop\PrototipoEF\PrototipoEF\Modulos\MDI\Ejecutable\Ejecutable\bin\Debug\Ejecutable.exe
 C:\Users\alecz\Desktop\PrototipoEF\PrototipoEF\Modulos\MDI\Ejecutable\Ejecutable\bin\Debug\Ejecutable.pdb
-C:\Users\alecz\Desktop\PrototipoEF\PrototipoEF\Modulos\MDI\Ejecutable\Ejecutable\bin\Debug\CapaControladorRRHH.dll
 C:\Users\alecz\Desktop\PrototipoEF\PrototipoEF\Modulos\MDI\Ejecutable\Ejecutable\bin\Debug\DLLnav.dll
 C:\Users\alecz\Desktop\PrototipoEF\PrototipoEF\Modulos\MDI\Ejecutable\Ejecutable\bin\Debug\Bitacora.dll
 C:\Users\alecz\Desktop\PrototipoEF\PrototipoEF\Modulos\MDI\Ejecutable\Ejecutable\bin\Debug\CapaVistaSeguridadHSC.dll
-C:\Users\alecz\Desktop\PrototipoEF\PrototipoEF\Modulos\MDI\Ejecutable\Ejecutable\bin\Debug\CapaModeloRRHH.dll
 C:\Users\alecz\Desktop\PrototipoEF\PrototipoEF\Modulos\MDI\Ejecutable\Ejecutable\bin\Debug\CapaControladorNav.dll
 C:\Users\alecz\Desktop\PrototipoEF\PrototipoEF\Modulos\MDI\Ejecutable\Ejecutable\bin\Debug\CapaControladorSeguridadHSC.dll
 C:\Users\alecz\Desktop\PrototipoEF\PrototipoEF\Modulos\MDI\Ejecutable\Ejecutable\bin\Debug\CapaVista.dll
@@ -35,12 +33,10 @@ C:\Users\alecz\Desktop\PrototipoEF\PrototipoEF\Modulos\MDI\Ejecutable\Ejecutable
 C:\Users\alecz\Desktop\PrototipoEF\PrototipoEF\Modulos\MDI\Ejecutable\Ejecutable\bin\Debug\ShockwaveFlashObjects.dll
 C:\Users\alecz\Desktop\PrototipoEF\PrototipoEF\Modulos\MDI\Ejecutable\Ejecutable\bin\Debug\stdole.dll
 C:\Users\alecz\Desktop\PrototipoEF\PrototipoEF\Modulos\MDI\Ejecutable\Ejecutable\bin\Debug\CapaVistaRRHH.pdb
-C:\Users\alecz\Desktop\PrototipoEF\PrototipoEF\Modulos\MDI\Ejecutable\Ejecutable\bin\Debug\CapaControladorRRHH.pdb
 C:\Users\alecz\Desktop\PrototipoEF\PrototipoEF\Modulos\MDI\Ejecutable\Ejecutable\bin\Debug\DLLnav.pdb
 C:\Users\alecz\Desktop\PrototipoEF\PrototipoEF\Modulos\MDI\Ejecutable\Ejecutable\bin\Debug\Bitacora.pdb
 C:\Users\alecz\Desktop\PrototipoEF\PrototipoEF\Modulos\MDI\Ejecutable\Ejecutable\bin\Debug\CapaVistaSeguridadHSC.pdb
 C:\Users\alecz\Desktop\PrototipoEF\PrototipoEF\Modulos\MDI\Ejecutable\Ejecutable\bin\Debug\CapaVistaSeguridadHSC.dll.config
-C:\Users\alecz\Desktop\PrototipoEF\PrototipoEF\Modulos\MDI\Ejecutable\Ejecutable\bin\Debug\CapaModeloRRHH.pdb
 C:\Users\alecz\Desktop\PrototipoEF\PrototipoEF\Modulos\MDI\Ejecutable\Ejecutable\bin\Debug\CapaControladorNav.pdb
 C:\Users\alecz\Desktop\PrototipoEF\PrototipoEF\Modulos\MDI\Ejecutable\Ejecutable\bin\Debug\CapaControladorSeguridadHSC.pdb
 C:\Users\alecz\Desktop\PrototipoEF\PrototipoEF\Modulos\MDI\Ejecutable\Ejecutable\bin\Debug\CapaVista.pdb
@@ -56,3 +52,4 @@ C:\Users\alecz\Desktop\PrototipoEF\PrototipoEF\Modulos\MDI\Ejecutable\Ejecutable
 C:\Users\alecz\Desktop\PrototipoEF\PrototipoEF\Modulos\MDI\Ejecutable\Ejecutable\obj\Debug\Ejecutable.csproj.CopyComplete
 C:\Users\alecz\Desktop\PrototipoEF\PrototipoEF\Modulos\MDI\Ejecutable\Ejecutable\obj\Debug\Ejecutable.exe
 C:\Users\alecz\Desktop\PrototipoEF\PrototipoEF\Modulos\MDI\Ejecutable\Ejecutable\obj\Debug\Ejecutable.pdb
+C:\Users\alecz\Desktop\PrototipoEF\PrototipoEF\Modulos\MDI\Ejecutable\Ejecutable\bin\Debug\CapaVistaRRHH.dll

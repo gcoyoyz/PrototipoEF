@@ -33,8 +33,9 @@
     <WarningLevel>4</WarningLevel>
   </PropertyGroup>
   <ItemGroup>
-    <Reference Include="CapaVistaRRHH">
-      <HintPath>..\..\RRHH\CapaVista\bin\Debug\CapaVistaRRHH.dll</HintPath>
+    <Reference Include="CapaVistaRRHH, Version=1.0.0.0, Culture=neutral, processorArchitecture=MSIL">
+      <SpecificVersion>False</SpecificVersion>
+      <HintPath>..\..\PrototipoEF\CapaVista\bin\Debug\CapaVistaRRHH.dll</HintPath>
     </Reference>
     <Reference Include="System" />
     <Reference Include="System.Core" />
